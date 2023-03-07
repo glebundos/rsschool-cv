@@ -1,4 +1,5 @@
 # Kontovsky Gleb
+![my-pic](/img.jpg)
 
 ## Contacts
 * __E-mail__: glebundos.me@gmail.com
@@ -67,7 +68,7 @@ I am 3rd year student at BSU RFKT Faculty. No commercial experience. I am very r
 * BSU RFKT 2020-2024
 * .NET Development course at EPAM Training
 
-##Projects
+## Projects
 * __Console App__ (EPAM courses): [Epam project](https://github.com/glebundos/epam-project)
 * __Web API__ (ASP.NET Web API): [MartBerries server](https://github.com/glebundos/MartBerries-Server)
 * __Innowise Test Task__ (ASP.NET Web API and Razor client): [Server](https://github.com/glebundos/innowise-task-server-ca) and [Client](https://github.com/glebundos/innowise-task-client)
