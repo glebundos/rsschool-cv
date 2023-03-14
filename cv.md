@@ -37,33 +37,6 @@ I am 3rd year student at BSU RFKT Faculty. No commercial experience. I am very r
 * Time management
 * Optimism
 
-## Code example
-```
-  // if str string ends with ending return true
-  // otherwise - false
-  
-  public static bool Solution(string str, string ending)
-  { 
-    if (ending.Length > str.Length)
-      return false;
-    
-    int j = str.Length - 1;
-    for (int i = ending.Length - 1; i >= 0; i--)
-    {
-      if (str[j] != ending[i])
-      {
-        return false;
-      }
-      
-      j--;
-    }
-    
-    return true;
-  }
-```
-
-## Work experience
-
 ## Education
 * BSU RFKT 2020-2024
 * .NET Development course at EPAM Training
