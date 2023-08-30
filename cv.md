@@ -8,7 +8,7 @@
 * __GitHub__ [glebundos](https://github.com/glebundos)
 
 ## About
-I am 3rd year student at BSU RFKT Faculty. No commercial experience. I am very responsible human being and very curious to learn and work. I'm optimistic person and know how to work in a team.
+I am a last year student at BSU RFKT Faculty. No commercial experience. I am very responsible human being and very curious to learn and work. I'm optimistic person and know how to work in a team.
 
 ## Hard skills
 * C#
