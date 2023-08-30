@@ -15,6 +15,7 @@ I am 3rd year student at BSU RFKT Faculty. No commercial experience. I am very r
 * ASP.NET
 * .NET
 * EF Core
+* React
 * SQL
 * Git
 * CQRS
