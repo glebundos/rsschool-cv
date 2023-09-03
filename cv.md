@@ -44,7 +44,7 @@ I am a last year student at BSU RFKT Faculty. No commercial experience. I am ver
 
 ## Projects
 * __Console App__ (EPAM courses): [Epam project](https://github.com/glebundos/epam-project)
-* __Web API__ (ASP.NET Web API): [MartBerries server](https://github.com/glebundos/MartBerries-Server)
+* __Web App__ (ASP.NET Web API and React client): [MartBerries server](https://github.com/glebundos/MartBerries-Server) and [Client](https://github.com/glebundos/martberries-react-client)
 * __Innowise Test Task__ (ASP.NET Web API and Razor client): [Server](https://github.com/glebundos/innowise-task-server-ca) and [Client](https://github.com/glebundos/innowise-task-client)
 
 ## English
