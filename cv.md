@@ -8,7 +8,7 @@
 * __GitHub__ [glebundos](https://github.com/glebundos)
 
 ## About
-I am a last year student at BSU RFCT Faculty. Very responsible human being and very curious to learn and work. Love to create different apps for myself and my friend. I'm optimistic person and know how to work in a team.
+I am a last year student at BSU RFCT Faculty. Very responsible human being and very curious to learn and work. Love to create different apps for myself and my friends. I'm optimistic person and know how to work in a team.
 
 ## Hard skills
 * C#
